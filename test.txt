@@ -1,27 +1,14 @@
 广东频道,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-广东体育,http://119.125.131.53:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
-广东影视,http://119.125.131.53:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-广东少儿,http://119.125.131.53:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
-嘉佳卡通,http://119.125.131.53:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&down=1
+广东广东珠江,http://59.32.97.180:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
-CCTV3,http://119.125.131.53:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV8,http://119.125.131.53:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV9,http://119.125.131.53:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV15,http://119.125.131.53:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-CCTVnews,http://119.125.131.53:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV5,http://59.32.97.180:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV怀旧剧场,http://59.32.97.180:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云音乐,http://59.32.97.180:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-东南卫视,http://119.125.131.53:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
-东方卫视,http://119.125.131.53:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1
-东方卫视,http://119.125.131.53:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1
-云南卫视,http://119.125.131.53:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
-吉林卫视,http://119.125.131.53:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&down=1
-安徽卫视,http://119.125.131.53:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1
-江西卫视,http://119.125.131.53:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1
-河南卫视,http://119.125.131.53:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&down=1
-湖南卫视,http://119.125.131.53:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
-重庆卫视,http://119.125.131.53:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&down=1
-陕西卫视,http://119.125.131.53:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&down=1
-[04/02 18:23]Updated.,#genre#
+三沙卫视,http://59.32.97.180:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://59.32.97.180:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://59.32.97.180:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+[04/03 12:26]Updated.,#genre#
 Auto-update,http:// 
