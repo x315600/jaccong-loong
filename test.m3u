@@ -7,5 +7,5 @@ http://119.125.134.172:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid
 http://119.125.134.172:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name=广东少儿 tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="广东频道",广东少儿
 http://119.125.134.172:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="[04/22 18:23]Updated.",Auto-update
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="[04/23 12:26]Updated.",Auto-update
 http:// 
