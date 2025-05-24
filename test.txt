@@ -1,12 +1,7 @@
 广东频道,#genre#
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-广东广东珠江,http://119.125.134.150:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
 卫视频道,#genre#
-兵团卫视,http://119.125.134.150:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://119.125.134.150:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://119.125.134.150:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://119.125.134.150:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-[05/23 18:24]Updated.,#genre#
+[05/24 12:26]Updated.,#genre#
 Auto-update,http:// 
