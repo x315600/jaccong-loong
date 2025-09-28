@@ -3,6 +3,5 @@
 TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 央视频道,#genre#
 卫视频道,#genre#
-安徽卫视,http://119.125.131.199:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1
-[09/27 18:19]Updated.,#genre#
+[09/28 12:25]Updated.,#genre#
 Auto-update,http:// 
