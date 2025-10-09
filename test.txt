@@ -3,5 +3,7 @@
 TVBPlus,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 央视频道,#genre#
 卫视频道,#genre#
-[10/08 18:23]Updated.,#genre#
+兵团卫视,http://119.125.131.25:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&down=1
+山西卫视,http://119.125.131.25:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&down=1
+[10/09 12:26]Updated.,#genre#
 Auto-update,http:// 
